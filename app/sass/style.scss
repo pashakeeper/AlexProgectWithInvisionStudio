@@ -638,11 +638,17 @@ header {
         background-image: url("../img/ar-left.png");
         position: absolute;
         left: 10px;
+        &.disabled {
+          opacity: .2;
+        }
       }
       .owl-next {
         background-image: url("../img/ar-rigth.png");
         position: absolute;
         right: 10px;
+        &.disabled {
+          opacity: .2;
+        }
       }
     }
     .owl-stage {
@@ -721,9 +727,15 @@ header {
   }
   .owl-prev {
     background-image: url("../img/ar-left.png");
+    &.disabled {
+          opacity: .2;
+        }
   }
   .owl-next {
     background-image: url("../img/ar-rigth.png");
+    &.disabled {
+          opacity: .2;
+        }
   }
 }
 .text_slider,.text_slider2,.text_slider3 {

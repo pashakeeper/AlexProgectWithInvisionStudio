@@ -738,10 +738,14 @@ header {
       background-image: url("../img/ar-left.png");
       position: absolute;
       left: 10px; }
+      .third_section .designers_slider .owl-nav .owl-prev.disabled {
+        opacity: .2; }
     .third_section .designers_slider .owl-nav .owl-next {
       background-image: url("../img/ar-rigth.png");
       position: absolute;
       right: 10px; }
+      .third_section .designers_slider .owl-nav .owl-next.disabled {
+        opacity: .2; }
   .third_section .designers_slider .owl-stage {
     display: -webkit-box;
     display: -webkit-flex;
@@ -829,8 +833,12 @@ header {
       font-size: 0; }
   .owl-nav .owl-prev {
     background-image: url("../img/ar-left.png"); }
+    .owl-nav .owl-prev.disabled {
+      opacity: .2; }
   .owl-nav .owl-next {
     background-image: url("../img/ar-rigth.png"); }
+    .owl-nav .owl-next.disabled {
+      opacity: .2; }
 
 .text_slider .owl-nav, .text_slider2 .owl-nav, .text_slider3 .owl-nav {
   display: none; }
