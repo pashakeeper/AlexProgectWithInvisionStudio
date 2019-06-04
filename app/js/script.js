@@ -148,6 +148,20 @@ function callback(event) {
   // console.log(itemADS);
   current.html('0' + itemADS);
   all.html('0' + itemsASD);
+  console.log(current.data);
+  console.log(itemADS);
+  if (itemADS == 1) {
+    $('.second_section .owl-prev').addClass('disabled');
+  }
+  else {
+    $('.second_section .owl-prev').removeClass('disabled');
+  }
+  if (itemADS == itemsASD - 2) {
+    $('.second_section .owl-next').addClass('disabled');
+  }
+  else {
+    $('.second_section .owl-next').removeClass('disabled');
+  }
 }
 
 function callback2(e) {

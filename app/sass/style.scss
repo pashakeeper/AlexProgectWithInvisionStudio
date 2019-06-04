@@ -52,6 +52,9 @@ button {
 
 a {
   text-decoration: none;
+  &:hover {
+    text-decoration: none;
+  }
 }
 
 ul {
@@ -78,6 +81,7 @@ header {
   position: relative;
   .container {
     height: 100%;
+    max-width: 1600px;
     .row {
       align-items: center;
       height: 100%;
@@ -136,6 +140,7 @@ header {
   .button.modal {
     display: flex;
     margin-left: 19px;
+    position: relative;
     max-width: 160px;
     min-width: 160px;
     width: 100%;
@@ -377,17 +382,18 @@ header {
         }
       }
       .col-lg-5.seventh_row {
-        margin-top: -99px;
+        margin-top: -8%;
         .works_box {
           max-height: 428px;
           min-height: 428px;
           max-width: 681px;
           display: flex;
+          margin-left: auto;
         }
       }
       .col-lg-3.seventh_row {
         margin-right: auto;
-        margin-top: -99px;
+        margin-top: -8%;
         .works_box {
           max-width: 430px;
           width: 100%;
@@ -987,7 +993,13 @@ header {
 }
 
 
-
+// MOdal
+.modal-dialog {
+  max-width: 878px;
+}
+.modal-content {
+  padding: 165px;
+}
 //Footer
 footer {
   padding: 140px 0 50px;
