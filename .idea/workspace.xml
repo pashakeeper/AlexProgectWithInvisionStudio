@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/app/sass/style.scss" line="830" />
+    <bookmark url="file://$PROJECT_DIR$/app/sass/style.scss" line="876" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72f612be-b943-4c3a-b199-1498e10017d1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/css/libs.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/libs.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/css/libs.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/libs.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/js/libs.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/libs.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/sass/libs.sass" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/libs.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sass/media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/media.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +26,7 @@
           <entry key="css" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="rnc" value="1" />
-          <entry key="scss" value="7" />
+          <entry key="scss" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -37,25 +34,32 @@
           <entry key="CSS" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="RNG Compact" value="1" />
-          <entry key="SCSS" value="7" />
+          <entry key="SCSS" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="162" />
-          <entry key="js" value="388" />
+          <entry key="html" value="400" />
+          <entry key="js" value="418" />
           <entry key="sass" value="2" />
-          <entry key="scss" value="98" />
-          <entry key="txt" value="1" />
+          <entry key="scss" value="3140" />
+          <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="162" />
-          <entry key="JavaScript" value="388" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="SCSS" value="98" />
+          <entry key="HTML" value="400" />
+          <entry key="JavaScript" value="418" />
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="SCSS" value="3140" />
           <entry key="Sass" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -75,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+              <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -83,8 +87,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/sass/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="1000" column="16" selection-start-line="1000" selection-start-column="16" selection-end-line="1000" selection-end-column="16" />
+            <state relative-caret-position="51">
+              <caret line="187" column="21" selection-start-line="187" selection-start-column="21" selection-end-line="187" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/sass/media.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="178" column="16" selection-start-line="178" selection-start-column="16" selection-end-line="178" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -101,22 +114,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="158" column="29" selection-start-line="158" selection-start-column="29" selection-end-line="158" selection-end-column="29" />
+            <state relative-caret-position="280">
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="815" column="27" selection-start-line="815" selection-start-column="27" selection-end-line="815" selection-end-column="27" />
-              <caret line="811" column="27" selection-start-line="811" selection-start-column="27" selection-end-line="811" selection-end-column="27" />
-              <caret line="807" column="27" selection-start-line="807" selection-start-column="27" selection-end-line="807" selection-end-column="27" />
-              <folding>
-                <element signature="e#41910#41917#1" expanded="true" />
-              </folding>
+            <state relative-caret-position="315">
+              <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -138,10 +146,21 @@
       <find>works_box__text_box</find>
       <find>des</find>
       <find>desi</find>
-      <find>slider_inside_design</find>
       <find>seventh_row</find>
       <find>button.modal</find>
       <find>designer</find>
+      <find>designers_slider</find>
+      <find>reward_slider</find>
+      <find>.fourth_section .pictures_row .col-lg-8 img:first-child</find>
+      <find>.fourth_section .pictures_row</find>
+      <find>.sixth_section .pictures_row .col-lg-8 img:nth-child(1), .sixth_section .pictures_row .col-lg-8 img:nth-child(2)</find>
+      <find>.sixth_section .pictures_row .col-lg-8 img:nth</find>
+      <find>.fourth_section</find>
+      <find>slider_inside_design</find>
+      <find>.title</find>
+      <find>.seventh</find>
+      <find>main_menu</find>
+      <find>rewar</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -155,11 +174,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/app/js/script.js" />
         <option value="$PROJECT_DIR$/app/sass/libs.sass" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/app/js/script.js" />
         <option value="$PROJECT_DIR$/app/sass/style.scss" />
         <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/sass/media.scss" />
       </list>
     </option>
   </component>
@@ -169,11 +189,22 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="170" />
-    <option name="y" value="92" />
-    <option name="width" value="1026" />
-    <option name="height" value="554" />
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/app/libs/animate.css/package.json" />
+      <path value="$PROJECT_DIR$/app/libs/bootstrap4/package.json" />
+      <path value="$PROJECT_DIR$/app/libs/owl.carousel/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="1960" />
+    <option name="y" value="36" />
+    <option name="width" value="1920" />
+    <option name="height" value="1016" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -196,28 +227,7 @@
               <item name="AlexProgectWithInvisionStudio" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlexProgectWithInvisionStudio" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlexProgectWithInvisionStudio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlexProgectWithInvisionStudio" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlexProgectWithInvisionStudio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlexProgectWithInvisionStudio" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlexProgectWithInvisionStudio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlexProgectWithInvisionStudio" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap4" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -240,138 +250,6 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/css/libs.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/css/libs.min.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/css/style.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/index.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/js/script.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/sass/style.scss</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/img/greeting/img1.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/img/greeting/img2.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/img/greeting/img3.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/img/map.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/img/process/img1.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/img/process/img10.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/img/process/img11.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/img/process/img12.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/img/process/img2.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/img/process/img3.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/img/process/img4.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/img/process/img5.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/img/process/img6.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/img/process/img7.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/img/process/img8.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/img/process/img9.png</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -400,6 +278,7 @@
       <workItem from="1559378707511" duration="21630000" />
       <workItem from="1559448339544" duration="10835000" />
       <workItem from="1559555278870" duration="389000" />
+      <workItem from="1559729820988" duration="13951000" />
     </task>
     <task id="LOCAL-00001" summary="-start of working Version1.1.3">
       <created>1559583668832</created>
@@ -408,17 +287,24 @@
       <option name="project" value="LOCAL" />
       <updated>1559583668832</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="-start of working Version1.1.4&#10;-modal">
+      <created>1559670476707</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559670476707</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59186000" />
+    <option name="totallyTimeSpent" value="73208000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25878593" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26144835" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -434,7 +320,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3272543" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.29787233" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -444,10 +330,14 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-start of working Version1.1.1" />
     <MESSAGE value="-start of working Version1.1.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="-start of working Version1.1.3" />
+    <MESSAGE value="-start of working Version1.1.4&#10;-modal" />
+    <option name="LAST_COMMIT_MESSAGE" value="-start of working Version1.1.4&#10;-modal" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/js/libs.min.js">
@@ -464,25 +354,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/css/style.css">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="158" column="29" selection-start-line="158" selection-start-column="29" selection-end-line="158" selection-end-column="29" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/libs/bootstrap4/scss/_mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
@@ -503,10 +379,24 @@
     <entry file="file://$PROJECT_DIR$/app/libs/bootstrap4/scss/utilities/_clearfix.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms2.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="432" column="22" selection-start-line="432" selection-start-column="22" selection-end-line="432" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -517,29 +407,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/style.scss">
+    <entry file="file://$PROJECT_DIR$/app/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="1000" column="16" selection-start-line="1000" selection-start-column="16" selection-end-line="1000" selection-end-column="16" />
+        <state relative-caret-position="280">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms2.rnc">
+    <entry file="file://$PROJECT_DIR$/app/sass/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="432" column="22" selection-start-line="432" selection-start-column="22" selection-end-line="432" selection-end-column="22" />
+        <state relative-caret-position="51">
+          <caret line="187" column="21" selection-start-line="187" selection-start-column="21" selection-end-line="187" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="815" column="27" selection-start-line="815" selection-start-column="27" selection-end-line="815" selection-end-column="27" />
-          <caret line="811" column="27" selection-start-line="811" selection-start-column="27" selection-end-line="811" selection-end-column="27" />
-          <caret line="807" column="27" selection-start-line="807" selection-start-column="27" selection-end-line="807" selection-end-column="27" />
-          <folding>
-            <element signature="e#41910#41917#1" expanded="true" />
-          </folding>
+        <state relative-caret-position="315">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/media.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="178" column="16" selection-start-line="178" selection-start-column="16" selection-end-line="178" selection-end-column="16" />
         </state>
       </provider>
     </entry>
